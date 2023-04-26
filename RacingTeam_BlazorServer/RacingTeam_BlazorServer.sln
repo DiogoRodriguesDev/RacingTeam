@@ -5,6 +5,8 @@ VisualStudioVersion = 17.5.33516.290
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RacingTeam_BlazorServer", "RacingTeam_BlazorServer.csproj", "{68DD3088-86B1-4D64-945F-A3893A074D3C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibrary_RacingTeam", "..\ClassLibrary_RacingTeam\ClassLibrary_RacingTeam.csproj", "{488397FF-36EA-4022-8CA3-B485CD91FF9C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{68DD3088-86B1-4D64-945F-A3893A074D3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{68DD3088-86B1-4D64-945F-A3893A074D3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{68DD3088-86B1-4D64-945F-A3893A074D3C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{488397FF-36EA-4022-8CA3-B485CD91FF9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{488397FF-36EA-4022-8CA3-B485CD91FF9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{488397FF-36EA-4022-8CA3-B485CD91FF9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{488397FF-36EA-4022-8CA3-B485CD91FF9C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
