@@ -1155,6 +1155,19 @@
             "rid": "win"
           }
         }
+      },
+      "ClassLibrary_RacingTeam/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore.SqlServer": "7.0.5"
+        },
+        "compile": {
+          "bin/placeholder/ClassLibrary_RacingTeam.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ClassLibrary_RacingTeam.dll": {}
+        }
       }
     }
   },
@@ -3500,10 +3513,16 @@
         "useSharedDesignerContext.txt",
         "version.txt"
       ]
+    },
+    "ClassLibrary_RacingTeam/1.0.0": {
+      "type": "project",
+      "path": "../ClassLibrary_RacingTeam/ClassLibrary_RacingTeam.csproj",
+      "msbuildProject": "../ClassLibrary_RacingTeam/ClassLibrary_RacingTeam.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
+      "ClassLibrary_RacingTeam >= 1.0.0",
       "Microsoft.EntityFrameworkCore.Design >= 7.0.5",
       "Microsoft.EntityFrameworkCore.SqlServer >= 7.0.5",
       "Microsoft.EntityFrameworkCore.Tools >= 7.0.5"
@@ -3545,7 +3564,11 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\DiogoRodrigues\\Desktop\\Learn Project dio\\RacingTeam\\ClassLibrary_RacingTeam\\ClassLibrary_RacingTeam.csproj": {
+              "projectPath": "C:\\Users\\DiogoRodrigues\\Desktop\\Learn Project dio\\RacingTeam\\ClassLibrary_RacingTeam\\ClassLibrary_RacingTeam.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

@@ -1,0 +1,14 @@
+C:\Users\DiogoRodrigues\Desktop\Learn Project dio\RacingTeam\ClassLibrary_RacingTeam\bin\Debug\net6.0\ClassLibrary_RacingTeam.deps.json
+C:\Users\DiogoRodrigues\Desktop\Learn Project dio\RacingTeam\ClassLibrary_RacingTeam\bin\Debug\net6.0\ClassLibrary_RacingTeam.runtimeconfig.json
+C:\Users\DiogoRodrigues\Desktop\Learn Project dio\RacingTeam\ClassLibrary_RacingTeam\bin\Debug\net6.0\ClassLibrary_RacingTeam.dll
+C:\Users\DiogoRodrigues\Desktop\Learn Project dio\RacingTeam\ClassLibrary_RacingTeam\bin\Debug\net6.0\ClassLibrary_RacingTeam.pdb
+C:\Users\DiogoRodrigues\Desktop\Learn Project dio\RacingTeam\ClassLibrary_RacingTeam\obj\Debug\net6.0\ClassLibrary_RacingTeam.csproj.AssemblyReference.cache
+C:\Users\DiogoRodrigues\Desktop\Learn Project dio\RacingTeam\ClassLibrary_RacingTeam\obj\Debug\net6.0\ClassLibrary_RacingTeam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DiogoRodrigues\Desktop\Learn Project dio\RacingTeam\ClassLibrary_RacingTeam\obj\Debug\net6.0\ClassLibrary_RacingTeam.AssemblyInfoInputs.cache
+C:\Users\DiogoRodrigues\Desktop\Learn Project dio\RacingTeam\ClassLibrary_RacingTeam\obj\Debug\net6.0\ClassLibrary_RacingTeam.AssemblyInfo.cs
+C:\Users\DiogoRodrigues\Desktop\Learn Project dio\RacingTeam\ClassLibrary_RacingTeam\obj\Debug\net6.0\ClassLibrary_RacingTeam.csproj.CoreCompileInputs.cache
+C:\Users\DiogoRodrigues\Desktop\Learn Project dio\RacingTeam\ClassLibrary_RacingTeam\obj\Debug\net6.0\ClassLibrary_RacingTeam.dll
+C:\Users\DiogoRodrigues\Desktop\Learn Project dio\RacingTeam\ClassLibrary_RacingTeam\obj\Debug\net6.0\refint\ClassLibrary_RacingTeam.dll
+C:\Users\DiogoRodrigues\Desktop\Learn Project dio\RacingTeam\ClassLibrary_RacingTeam\obj\Debug\net6.0\ClassLibrary_RacingTeam.pdb
+C:\Users\DiogoRodrigues\Desktop\Learn Project dio\RacingTeam\ClassLibrary_RacingTeam\obj\Debug\net6.0\ClassLibrary_RacingTeam.genruntimeconfig.cache
+C:\Users\DiogoRodrigues\Desktop\Learn Project dio\RacingTeam\ClassLibrary_RacingTeam\obj\Debug\net6.0\ref\ClassLibrary_RacingTeam.dll

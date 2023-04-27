@@ -20,6 +20,7 @@ namespace ClassLibrary_RacingTeam.Models
         public string VoltaMaisRapida { get; set; }
         public ClassificacaoGeral ClassificacaoGeral { get; set; }
         public Piloto Piloto { get; set; }
+
         public Corrida Corrida { get; set; }
 
         #region ctor

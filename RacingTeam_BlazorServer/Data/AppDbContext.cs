@@ -4,9 +4,10 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using ClassLibrary_RacingTeam.Data;
 using ClassLibrary_RacingTeam.Models;
 
-namespace ClassLibrary_RacingTeam.Data
+namespace RacingTeam_BlazorServer
 {
     public class AppDbContext : DbContext, IDataContext
     {
@@ -23,7 +24,7 @@ namespace ClassLibrary_RacingTeam.Data
         {
             base.OnConfiguring(optionsBuilder);
 
-            optionsBuilder.UseSqlServer(@"Data Source=DIO-PC\MSSQL_SERVER_DIO;Initial Catalog=AppDataBase; Trusted_Connection=True; TrustServerCertificate=True;");
+            optionsBuilder.UseSqlServer(@"Data Source=DIO-PC\MSSQL_SERVER_DIO;Initial Catalog=RacingTeam; Trusted_Connection=True; TrustServerCertificate=True;");
         }
     }
 }

@@ -20,10 +20,12 @@ namespace ClassLibrary_RacingTeam.Models
         public int Id_circuito { get; set; }
 
         public List<Carro> CarrosPermitidos { get; set; }
+
+        [NotMapped]
         public List<TipoPneu> PneusPermitidos { get; set; }
         public int NumeroVoltas { get; set; }
         public int NumeroMinutos { get; set; }
-
+        [ForeignKey("Id_Resultado")]
         public Resultado Resultado { get; set; }
         public Circuito Circuito { get; set; }
         #endregion
