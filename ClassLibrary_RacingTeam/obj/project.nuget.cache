@@ -1,12 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "0FeW4mt5TYztOofL6GXJHeMSWu5N8D3rqfwg0DKBrcsC/SZK3n0kJMApd3dTS5BSS89zMp0jy6hwYmgwhZwdSw==",
+  "dgSpecHash": "XhuvbPZUcbMktPk/zfK0XkmFL2jhfwxQW13lW4SbYrS4sv6BjUO7LcMXneMyPv2lxpBtmJJe8W6IH+qu/wECOA==",
   "success": true,
   "projectFilePath": "C:\\Users\\DiogoRodrigues\\Desktop\\Learn Project dio\\RacingTeam\\ClassLibrary_RacingTeam\\ClassLibrary_RacingTeam.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\DiogoRodrigues\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\DiogoRodrigues\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
     "C:\\Users\\DiogoRodrigues\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
+    "C:\\Users\\DiogoRodrigues\\.nuget\\packages\\mediatr\\12.0.1\\mediatr.12.0.1.nupkg.sha512",
+    "C:\\Users\\DiogoRodrigues\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
     "C:\\Users\\DiogoRodrigues\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\DiogoRodrigues\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\DiogoRodrigues\\.nuget\\packages\\microsoft.data.sqlclient\\5.0.1\\microsoft.data.sqlclient.5.0.1.nupkg.sha512",
